@@ -1,9 +1,8 @@
-### Dr. Fahimeh Hadavimoghaddam 👩‍🔬
-### Associate professor, Northeast Petroleum University (China)
+### Dr. Fahimeh Hadavimoghaddam 
 
 ![logo_git_xiaobao_smaller (1)](https://github.com/Fakhime/Fakhime/assets/86554005/da233a9c-e15e-4866-a530-fa468f90ee1e)
 
-I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy field (petroleum science, EOR, CCUS etc.) with Data Science and ML. 
+Hello! I am Fahimeh, PhD in Reservoir Engineering and Associate professor at Northeast Petroleum University (China), and I am keen on exploring energy field (petroleum science, EOR, CCUS etc.) with Data Science and ML. 
 
 ### Interesting facts:
 ⭐️ Combining industry and academia since 2020
