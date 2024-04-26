@@ -5,9 +5,9 @@ I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy fi
 ### Interesting facts:
 ⭐️ Combining industry and academia since 2020
 
-⭐️ h-index of 16 with 664 citations 
+⭐️ Made more than 60 researched (h-index of 16 with 664 citations )
 
-⭐️ Leading 3 AI-based alternative energy projects in China and Kazakhstan worth ~210K USD 
+⭐️ Leading 3 AI-based projects in China and Kazakhstan worth ~210K USD 
 
 ### My stack:
 Python
