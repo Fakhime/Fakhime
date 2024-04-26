@@ -11,6 +11,8 @@ I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy fi
 
 ### My stack:
 <img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png"> 
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"> 
+
 
 ### Contact me:
 LinkedIn
