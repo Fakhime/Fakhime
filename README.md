@@ -1,4 +1,4 @@
-### Fahimeh Hadavimoghaddam, PhD
+### Dr. Fahimeh Hadavimoghaddam
 
 I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy field (petroleum science, EOR, CCUS etc.) with Data Science and ML. 
 
