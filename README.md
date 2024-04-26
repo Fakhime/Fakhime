@@ -1,4 +1,4 @@
-![image](https://github.com/Fakhime/Fakhime/assets/86554005/0ea06527-ba87-4d14-8a1e-abe6600c24b1)### Dr. Fahimeh Hadavimoghaddam
+### Dr. Fahimeh Hadavimoghaddam
 
 I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy field (petroleum science, EOR, CCUS etc.) with Data Science and ML. 
 
