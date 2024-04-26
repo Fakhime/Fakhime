@@ -1,4 +1,4 @@
-### Dr. Fahimeh Hadavimoghaddam
+![image](https://github.com/Fakhime/Fakhime/assets/86554005/0ea06527-ba87-4d14-8a1e-abe6600c24b1)### Dr. Fahimeh Hadavimoghaddam
 
 I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy field (petroleum science, EOR, CCUS etc.) with Data Science and ML. 
 
@@ -11,8 +11,12 @@ I am Fahimeh, PhD in Reservoir Engineering, and I am keen on exploring energy fi
 
 ### My stack:
 <img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png"> 
-<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"> 
-<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw3-joDP3jCAnUhV1Tfj3KIk&ust=1714236257343000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiQ1-mp4IUDFQAAAAAdAAAAABAE"> 
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png">
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png">
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png">  
 
 ### Contact me:
 LinkedIn
