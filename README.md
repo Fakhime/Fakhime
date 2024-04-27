@@ -27,5 +27,5 @@ SPSS Statistics, Nativefier, Eclipse (E100, PVTi), Petrel, PVTsim, Nexus, U-Cube
 <br />
 
 ### Contact me:
-[<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/fahime-moghaddam-phd-039a2183/)
-[<img width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png">](https://scholar.google.ru/citations?user=kZSXOkcAAAAJ&hl=ru&oi=ao)
+[<img width="40px" align="left" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/fahime-moghaddam-phd-039a2183/)
+[<img width="40px" align="left" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png">](https://scholar.google.ru/citations?user=kZSXOkcAAAAJ&hl=ru&oi=ao)
