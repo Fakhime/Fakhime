@@ -2,9 +2,9 @@
 
 ![logo_git_xiaobao_smaller (1)](https://github.com/Fakhime/Fakhime/assets/86554005/da233a9c-e15e-4866-a530-fa468f90ee1e)
 
-Hello! I am Fahimeh, PhD in Reservoir Engineering and Associate professor at Northeast Petroleum University (China). I am a great fan of exploring energy field (petroleum science, EOR, CCUS etc.) with programming, especially Data Science and ML. 
+Hello! I am Fahimeh, PhD in Reservoir Engineering and Associate professor at Northeast Petroleum University (China). I am a great fan of exploring energy field (petroleum science, EOR, CCUS etc.) with programming, especially Data Science and ML. Always welcome to any suggestions and proposals!
 
-### Interesting facts:
+### About me:
 ⭐️ Combining industry and academia since 2020
 
 ⭐️ Made more than 60 researches (h-index of 16 with 664 citations)
