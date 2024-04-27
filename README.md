@@ -20,10 +20,10 @@ Hello! I am Fahimeh, PhD in Reservoir Engineering and Associate professor at Nor
 <img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
 <img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <br /> 
+<br />
 
 ### Engineering stack:
 SPSS Statistics, Nativefier, Eclipse (E100, PVTi), Petrel, PVTsim, Nexus, U-Cube, Tnavigator, COMSOL MULTIPHYSICS, CMG STAR, LaTeX, Matlab, Mathcad
-<br />
 <br />
 
 ### Contact me:
