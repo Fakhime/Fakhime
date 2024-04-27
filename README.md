@@ -1,4 +1,4 @@
-### Dr. Fahimeh Hadavimoghaddam 
+### Dr. Fahime Moghaddam 
 
 ![logo_git_xiaobao_smaller (1)](https://github.com/Fakhime/Fakhime/assets/86554005/da233a9c-e15e-4866-a530-fa468f90ee1e)
 
@@ -9,7 +9,7 @@ Hello! I am Fahimeh, PhD in Reservoir Engineering, Senior Reservoir Engineer and
 
 ⭐️ Made more than 60 researches (h-index of 16 with 664 citations). They are dedicated to using ML to predict important reservoir indicators such as in situ stress, MMP, permeability etc.
 
-⭐️ Leading 3 AI-based projects in China and Kazakhstan worth ~210K USD. Their primary purpose is to make interactive web application for enhanced oil recovery 
+⭐️ Leading 3 AI-based projects in China and Kazakhstan. Their primary purpose is to make interactive web application for enhanced oil recovery 
 
 ### Coding stack:
 <img align="left" alt="Lab" width="42px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png"> 
